@@ -17,7 +17,7 @@ ______________________________________
 
 ## Οδηγίες εκτέλεσης
 1. **Μεταγλώττιση:**
-   * Στη Γραμμή Εντολών (cmd) εισάγετε: **C:\ett\src> g++ examTimeTabling.cpp -o examTimeTabling**
+  * Στη Γραμμή Εντολών (cmd) εισάγετε: **C:\ett\src> g++ examTimeTabling.cpp -o examTimeTabling**
 2. **Εκτέλεση:**
-    * Στη Γραμμή Εντολών (cmd) εισάγετε: **C:\ett\src> ExamTimeTabling.exe**
+  * Στη Γραμμή Εντολών (cmd) εισάγετε: **C:\ett\src> ExamTimeTabling.exe**
 
